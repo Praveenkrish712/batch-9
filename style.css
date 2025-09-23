@@ -1,0 +1,39 @@
+*{
+    background-color: gold;
+}
+
+h1{
+    color: hotpink;
+}
+
+.box > ul > li{
+    color: orange;
+}
+
+.box > h1{
+    color: rebeccapurple;
+}
+
+#box2 > h3,h2,
+#box2 >h1{
+    color: aqua;
+    background-color: black;
+}
+
+p{
+    background-image: url(./Assets/Justin\ Goff.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+h4{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: line-through;
+    font-weight: bold;
+    line-height: 2;
+    letter-spacing: 2px;
+}

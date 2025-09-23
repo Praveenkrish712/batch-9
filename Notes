@@ -26,3 +26,47 @@ order list and unorder list
 
 10) forms
 label and input
+
+
+
+
+
+
+CSS - Cascading Style Sheet
+
+1) Types of css
+i - inline
+ii - internal
+iii- external
+
+inline > internal > external
+
+2) Css syntax
+selector {
+    property: value;
+}
+
+3) types of selectors
+i- element selector - (p), (h1)...
+ii - class selector - (.) multiple , number of times
+iii - id selector - (#) unique , only one time(name)
+iv - universal selector - (*)
+v - group selector - (h1,h2)
+
+4) colors and background
+background-color : gold;
+color : silver;
+background-image : url();
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+
+5) text styling
+font-family: 'Times New Roman', Times, serif;
+font-size: 40px;
+text-align: center;
+text-transform: uppercase;
+text-decoration: line-through;
+font-weight: bold;
+line-height: 2;
+letter-spacing: 2px
