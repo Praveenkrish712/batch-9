@@ -1,5 +1,9 @@
 *{
     background-color: gold;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    border: 0;
 }
 
 h1{
@@ -37,3 +41,60 @@ h4{
     line-height: 2;
     letter-spacing: 2px;
 }
+
+.container {
+    /* width: 200px; */
+    /* height: 200px; */
+    /* background-color: red; */
+    /* padding-left: 70px; */
+    /* padding-top: 50px; */
+    /* padding: 20px 40px 50px 70px; */
+    /* border: 10px solid black; */
+    /* margin: 100px 50px 40px 60px; */
+    height: 500px;
+    border: 2px solid black;
+    display: flex;
+    /* flex-direction: row-reverse; */
+    /* justify-content: start; */
+    /* align-items: start; */
+    /* flex-wrap: wrap; */
+    /* align-content: space-between; */
+    /* gap: 10px; */
+}
+
+.box1{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    /* flex: 1; */
+    order: 3;
+}
+
+.box2{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    /* flex: 1; */
+    order: 1;
+}
+
+.box3{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    /* flex: 1; */
+    order: 2;
+}
+
+.box4{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+
+.box5{
+    width: 100px;
+    height: 100px;
+    background-color: hotpink;
+}
+

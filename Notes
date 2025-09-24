@@ -69,4 +69,27 @@ text-transform: uppercase;
 text-decoration: line-through;
 font-weight: bold;
 line-height: 2;
-letter-spacing: 2px
+letter-spacing: 2px;
+
+6) Box modeling
+i - content
+ii - padding
+iii - border
+iv - margin
+
+7) flex
+direction - row, row-reverse, column, column-reverse
+
+justify content (x) - start, center, end, space-around, space-between, space-evenly
+
+align items (y) - start, center, end
+
+flex wrap - no-wrap, wrap, wrap-reverse
+
+align-content - start, center, end, space-around, space-between, space-evenly
+
+gap - to assgin value
+
+flex(on items) -  its grow to actual ratio
+
+order - change the visual order of the flex 
