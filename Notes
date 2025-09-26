@@ -1,84 +1,80 @@
 HTML - Hyper text markup language
-* to create a webpage
-* not a programming language
-* Its a markup language
-* Every webpage starts with HTML
 
-1) Heading - h1 - h6
+- to create a webpage
+- not a programming language
+- Its a markup language
+- Every webpage starts with HTML
 
-2) paragraph - p
+1. Heading - h1 - h6
 
-3) hr
+2. paragraph - p
 
-4) br
+3. hr
 
-5) text formating
-u, i,, b or strong, mark, sub and sup
+4. br
 
-6) anchor tag - a
+5. text formating
+   u, i,, b or strong, mark, sub and sup
 
-7) image tag - img
+6. anchor tag - a
 
-8) list 
-order list and unorder list
+7. image tag - img
 
-9) tables - th, tr, td
+8. list
+   order list and unorder list
 
-10) forms
-label and input
+9. tables - th, tr, td
 
-
-
-
-
+10. forms
+    label and input
 
 CSS - Cascading Style Sheet
 
-1) Types of css
-i - inline
-ii - internal
-iii- external
+1. Types of css
+   i - inline
+   ii - internal
+   iii- external
 
 inline > internal > external
 
-2) Css syntax
-selector {
-    property: value;
-}
+2. Css syntax
+   selector {
+   property: value;
+   }
 
-3) types of selectors
-i- element selector - (p), (h1)...
-ii - class selector - (.) multiple , number of times
-iii - id selector - (#) unique , only one time(name)
-iv - universal selector - (*)
-v - group selector - (h1,h2)
+3. types of selectors
+   i- element selector - (p), (h1)...
+   ii - class selector - (.) multiple , number of times
+   iii - id selector - (#) unique , only one time(name)
+   iv - universal selector - (\*)
+   v - group selector - (h1,h2)
 
-4) colors and background
-background-color : gold;
-color : silver;
-background-image : url();
-background-repeat: no-repeat;
-background-size: cover;
-background-position: center;
+4. colors and background
+   background-color : gold;
+   color : silver;
+   background-image : url();
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
 
-5) text styling
-font-family: 'Times New Roman', Times, serif;
-font-size: 40px;
-text-align: center;
-text-transform: uppercase;
-text-decoration: line-through;
-font-weight: bold;
-line-height: 2;
-letter-spacing: 2px;
+5. text styling
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 40px;
+   text-align: center;
+   text-transform: uppercase;
+   text-decoration: line-through;
+   font-weight: bold;
+   line-height: 2;
+   letter-spacing: 2px;
 
-6) Box modeling
-i - content
-ii - padding
-iii - border
-iv - margin
+6. Box modeling
+   i - content
+   ii - padding
+   iii - border
+   iv - margin
 
-7) flex
-direction - row, row-reverse, column, column-reverse
+7. flex
+   direction - row, row-reverse, column, column-reverse
 
 justify content (x) - start, center, end, space-around, space-between, space-evenly
 
@@ -90,6 +86,15 @@ align-content - start, center, end, space-around, space-between, space-evenly
 
 gap - to assgin value
 
-flex(on items) -  its grow to actual ratio
+flex(on items) - its grow to actual ratio
 
-order - change the visual order of the flex 
+order - change the visual order of the flex
+
+8. position
+   i - Static - default -
+   ii - relative - to set the direction value
+   iii - absolute - depents upon the non-Static parents
+   iv - fiexed - to fix the web pages
+   v - sticky - same to the fiexed
+
+9. Grid - 2 dimensional layout system
