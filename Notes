@@ -97,4 +97,12 @@ order - change the visual order of the flex
    iv - fiexed - to fix the web pages
    v - sticky - same to the fiexed
 
-9. Grid - 2 dimensional layout system
+9. Grid - 2 dimensional layout system 
+
+10. Transition and Animation
+
+11. Media Queries(Resposive design)
+
+MOBILE - 320px - 600px
+TAB - 601px - 800px
+LAP/DESKTOP - 801px <=
